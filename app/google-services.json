@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "339494985254",
+    "firebase_url": "https://sepprac.firebaseio.com",
+    "project_id": "sepprac",
+    "storage_bucket": "sepprac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339494985254:android:c5ff51f12cab2ba6",
+        "android_client_info": {
+          "package_name": "com.mad.sepprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339494985254-lopqbgdkcsopciuq6l9p4n1rnl5s1ks0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.sepprac",
+            "certificate_hash": "e2eb1facde9c47379edccf4a9254dee7950f9926"
+          }
+        },
+        {
+          "client_id": "339494985254-4ati5sqt0bj2m7rnch8e4fd3vs92pk7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6cvMxqnuEIWn-ajWk9L0g9aAmITV-P-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339494985254-4ati5sqt0bj2m7rnch8e4fd3vs92pk7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
